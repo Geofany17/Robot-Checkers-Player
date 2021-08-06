@@ -1,9 +1,9 @@
 # Robot-Checkers-Player
 This is the code for my Final Thesis Project about Robot playing Checkers Game. It uses Python, OpenCV, and uses a Cartesian/Gantry Robot model that operates using GRBL. The camera is placed on top for detection of boards and pieces. I used Visual Studio 2019 to write the code as well as the Arduino IDE to control the motors for each axis.
 
-For a demo, see here:
+For a demo, see here: https://www.youtube.com/watch?v=_FilVqGszE8
 
-Thank you for:
+Thanks for:
 
 Checkers AI and Image Processing that I modified for my own use:
 
